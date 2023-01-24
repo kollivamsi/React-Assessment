@@ -14,7 +14,7 @@ const useStyles = makeStyles({
 export default () => {
   const classes = useStyles();
 
-  const name = "vamsi's";
+  const name = "vamsi";
   return (
     <AppBar position="static">
       <Toolbar>
